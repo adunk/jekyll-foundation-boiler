@@ -1,5 +1,5 @@
 {
-  "name": "foundation-libsass-template",
+  "name": "Foundation / Jekyll Boilerplate",
   "dependencies": {
     "foundation": "zurb/bower-foundation"
   }

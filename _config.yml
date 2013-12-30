@@ -1,0 +1,65 @@
+name: 'Foundation / Jekyll Boilerplate'
+description: 'Boilerplate setup for Foundation/Jekyll'
+
+markdown: redcarpet
+pygments: true
+permalink: /:title/
+include: ['.htaccess']
+exclude: [
+  'node_modules',
+  'bower_components',
+  'Gruntfile.js',
+  'package.json',
+  'bower.json',
+  'Gemfile',
+  'Gemfile.lock',
+  'README.md',
+  'scss',
+  'vendor'
+]
+
+images:
+  post_url: '/images/posts'
+  retina: true
+  retina_suffix: '@2x'
+  lazy: true
+  lazy_placeholder: 'loading.gif'
+
+
+### Custom Site Constants ###
+constants:
+  # Locale and encoding
+  lang: en-US
+  locale: en_US
+  encoding: utf-8
+
+  # Name (Brand), Tagline and Meta Image (Og)
+  name: John Doe
+  tagline: Web Stalker
+  description: John Doe is dead, yet somehow he still built this badass website.
+
+  # Contact and Domain
+  email: me@example.com
+  domain: example.com
+
+  # Social Media User Names (Not full URL)
+  github: adunk
+  twitter: AndrewOverseas
+  facebook: Andrew.Dunkle
+
+  # Feedburner Feed Name
+  feed-name: thefeedisburning
+
+  # Meta Admin / Verify IDs
+  facebook-admin: 12345
+  facebook-appid: 12345
+  gplus-publisher: 12345
+  disqus-user: 12345
+
+  # Analytics / Metrics
+  google-analytics-id: UA-1111111-1
+
+  # Default author for Posts
+  author:
+    name: Andrew Dunkle
+    domain: andrewdunkle.com

@@ -1,4 +1,25 @@
-*.DS_Store
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Application specific files
 /css/*
 /bower_components/*
 /node_modules/*
+/_site/*
+/_drafts/*
+/images/*
+/.bundle/*
+/vendor/*
+Gemfile.lock
+js/foundation.min.js
+js/jquery.min.js
+js/modernizr.js

@@ -1,0 +1,32 @@
+/* ME */
+
+Project Lead: Andrew Dunkle
+Site: http://andrewdunkle.com
+Twitter: @AndrewOverseas
+Location: Berkeley, CA USA
+
+/* THANKS */
+
+GitHub
+Jekyll
+Zurb Foundation
+
+/* PROJECT */
+
+Standards: 
+  * HTML5
+  * CSS3
+  * JS
+  * Responsive
+  * Mobile-First
+
+Components:
+  * Zurb Foundation
+  * Jekyll
+  * jQuery
+  * Modernizr
+  * SCSS
+  * Grunt
+  * Bower
+  * Node.js
+  * NPM

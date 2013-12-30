@@ -27,3 +27,15 @@ And you're set!
 
   * `scss/_settings.scss`: Foundation configuration settings go in here
   * `scss/app.scss`: Application styles go here
+  
+## Useful articles to read:
+Jekyll, Bower & Grunt - http://pletscher.org/blog/2013/05/27/website.html
+Creating a fast and mobile-friendly website with Jekyll - http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/
+
+## Grunt:
+Grunt Boilerplate - http://www.integralist.co.uk/posts/grunt-boilerplate/
+
+## Examples:
+https://github.com/nicolashery/nicolashery.com
+https://github.com/neverstopbuilding/blog
+https://github.com/rememberlenny/Jekyll-Foundation-SASS
