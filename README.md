@@ -1,6 +1,6 @@
-# Foundation libsass template
+# Jekyll on Foundation 5 Boilerplate
 
-This is a template to start your own project that uses Grunt and libsass!
+This is a boilerplate to run Jekyll on the lastest Zurb Foundation 5 framework.
 
 ## Requirements
 
@@ -13,7 +13,7 @@ You'll need to have the following items installed before continuing.
 ## Quickstart
 
 ```bash
-git clone git@github.com:zurb/foundation-libsass-template.git
+git clone git@github.com:adunk/jekyll-foundation-boiler.git
 npm install && bower install
 ```
 
@@ -29,13 +29,16 @@ And you're set!
   * `scss/app.scss`: Application styles go here
   
 ## Useful articles to read:
-Jekyll, Bower & Grunt - http://pletscher.org/blog/2013/05/27/website.html
-Creating a fast and mobile-friendly website with Jekyll - http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/
+
+  # [Jekyll, Bower & Grunt](http://pletscher.org/blog/2013/05/27/website.html)
+  # [Creating a fast and mobile-friendly website with Jekyll](http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/)
 
 ## Grunt:
-Grunt Boilerplate - http://www.integralist.co.uk/posts/grunt-boilerplate/
+
+  # [Grunt Boilerplate](http://www.integralist.co.uk/posts/grunt-boilerplate/)
 
 ## Examples:
-https://github.com/nicolashery/nicolashery.com
-https://github.com/neverstopbuilding/blog
-https://github.com/rememberlenny/Jekyll-Foundation-SASS
+
+  # https://github.com/nicolashery/nicolashery.com
+  # https://github.com/neverstopbuilding/blog
+  # https://github.com/rememberlenny/Jekyll-Foundation-SASS
