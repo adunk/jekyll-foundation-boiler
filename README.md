@@ -13,9 +13,12 @@ You'll need to have the following items installed before continuing.
 ## Quickstart
 
 ```bash
-git clone git@github.com:adunk/jekyll-foundation-boiler.git
-npm install && bower install
+git clone https://github.com/adunk/jekyll-foundation-boiler.git
+cd jekyll-foundation-boiler
+npm install && bower install && grunt build
 ```
+
+To make sure the project is up to date you should also run `bower update`
 
 While you're working on your project, run:
 
